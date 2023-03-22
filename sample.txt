@@ -1,1 +1,2 @@
 This is a sample file created from VS Code!
+Now I am editing this file in master branch. then try to create a branch fo commit and see how it works?
